@@ -1,4 +1,5 @@
-# website-vue-cli
+# elm-in-vue
+Based on [this](https://maartenvanvliet.nl/2017/08/17/using-elm-within-vuejs/), but updated to use vue-cli 3.x and es6 modules.
 
 ## Project setup
 ```
